@@ -1,0 +1,7 @@
+Programmed and coded by Gabriel Toban Harris
+
+Is the 3rd version of Event Reminder.
+
+Event Reminder makes sound when target time is reached or target time has passed.
+
+Most of the code has been reworked (improved) since Event Reminder V2. After which improvements (added/altered stuff) were made.
